@@ -1,0 +1,1 @@
+Toying around with Go. A dead simple RESTful CRUD API using an in memory DB. #n00b
